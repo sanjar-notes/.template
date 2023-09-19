@@ -6,7 +6,7 @@ It also has the .obsidian configs
 
 ---
 
-## Directory structure
+## Complete structure
 `/`
   - home (for meta-data/logistics)
     1. Motivation page
@@ -36,7 +36,9 @@ It also has the .obsidian configs
   - 2. One for vault
   - 3. Main/master branch which has all resources+vault merged together.
 
-## resource_itinerary
+## resource_itineraries folder
+
+fixme: rename (name too long ;))
 
 #### This is for books/videos/courses/seminars/lectures/conferences/problem_sets
 #### This a logger of everything that happens
