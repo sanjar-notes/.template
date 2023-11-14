@@ -4,6 +4,8 @@ Notes template repository
 This is used when a new note repo is created.
 It also has the .obsidian configs
 
+The intent here is to store notes structure and related tools info.
+
 ---
 
 ## Complete structure
