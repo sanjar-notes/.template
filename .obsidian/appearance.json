@@ -4,5 +4,7 @@
   "showViewHeader": false,
   "nativeMenus": false,
   "theme": "system",
-  "enabledCssSnippets": ["terminal"]
+  "enabledCssSnippets": [
+    "terminal"
+  ]
 }
